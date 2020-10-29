@@ -1,0 +1,6 @@
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\obj\Debug\SalespersonDemo.csprojAssemblyReference.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\bin\Debug\SalespersonDemo.exe.config
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\bin\Debug\SalespersonDemo.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\bin\Debug\SalespersonDemo.pdb
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\obj\Debug\SalespersonDemo.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\SalespersonDemo\SalespersonDemo\SalespersonDemo\obj\Debug\SalespersonDemo.pdb
